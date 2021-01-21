@@ -1,10 +1,11 @@
-3d2507d9b229f965241206fe3ef4ebaa *DESCRIPTION
+d88bb1b99143e70ff419daf51549fa31 *DESCRIPTION
 1bd406110901ddffbd565e980f04ad32 *LICENSE
 ba0160cc90b9eb6f9f0489a377951b5b *NAMESPACE
-377f28413183e30d80dcfd51f8ae885b *NEWS.md
+85511e89c8bc6f50faf6b4120b09f002 *NEWS.md
 a6d221587307c28c20fc6ece7e33441f *R/RcppExports.R
 c1f1b85e077a8811995da39c22494923 *R/RcppXsimd.R
 2bfd622a28498c71dc174984caa90b33 *README.md
+dc877c55f3473af2aef4b8a2bc0d8b91 *inst/CITATION
 b9f2290c032e93d09b6123e6b401b853 *inst/include/xsimd/LICENSE.xsimd
 98ef0349c5614c132c2924fb17f279ce *inst/include/xsimd/config/xsimd_align.hpp
 04249e9037383afb6a643efba632dafd *inst/include/xsimd/config/xsimd_config.hpp
@@ -81,7 +82,7 @@ e14a6a25fe0dcb4bb0a6e4f21cc53e0e *inst/include/xsimd/types/xsimd_sse_int32.hpp
 89dc53d45c53779b24390d7e8c787fb8 *inst/include/xsimd/types/xsimd_sse_int64.hpp
 84495336c44c0db19a737130cad2db36 *inst/include/xsimd/types/xsimd_sse_int8.hpp
 d86204afb3ca76658f9536a574f055a3 *inst/include/xsimd/types/xsimd_sse_int_base.hpp
-4e17cb21cd93c4ee98e86e5b63aefde8 *inst/include/xsimd/types/xsimd_traits.hpp
+05a864a92f3bb6646f7e15cd8ec9573e *inst/include/xsimd/types/xsimd_traits.hpp
 04e74eaf8cbf47c88fd8f3a96a18d39a *inst/include/xsimd/types/xsimd_types_include.hpp
 598addc4a311951438bdd577a73f225d *inst/include/xsimd/types/xsimd_utils.hpp
 b6383cab5d9ce434f76f2d8f60f15c07 *inst/include/xsimd/xsimd.hpp

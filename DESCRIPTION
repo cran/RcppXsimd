@@ -1,7 +1,7 @@
 Package: RcppXsimd
 Type: Package
 Title: Xsimd C++ Header-Only Library Files
-Version: 7.1.5
+Version: 7.1.6
 Date: 2021-01-05
 Authors@R: c(
     person("Marc A.", "Suchard", email = "msuchard@ucla.edu", role = c("aut","cre")),
@@ -25,7 +25,7 @@ RoxygenNote: 7.1.1
 Encoding: UTF-8
 Suggests: testthat
 NeedsCompilation: yes
-Packaged: 2021-01-06 13:13:50 UTC; msuchard
+Packaged: 2021-01-17 16:33:07 UTC; msuchard
 Author: Marc A. Suchard [aut, cre],
   Andrew J. Holbrook [aut],
   Observational Health Data Sciences and Informatics [cph],
@@ -37,4 +37,4 @@ Author: Marc A. Suchard [aut, cre],
     FeatureDetector library under a CC0 1.0 license)
 Maintainer: Marc A. Suchard <msuchard@ucla.edu>
 Repository: CRAN
-Date/Publication: 2021-01-07 06:40:09 UTC
+Date/Publication: 2021-01-21 23:30:10 UTC
