@@ -1,4 +1,4 @@
-a57c3ff2da98301f8f719216a59ee7e2 *DESCRIPTION
+9e381c358945a779aaca9a6e43df903f *DESCRIPTION
 1bd406110901ddffbd565e980f04ad32 *LICENSE
 ba0160cc90b9eb6f9f0489a377951b5b *NAMESPACE
 368f55b4bffe1946bf5edca8c13d5b4a *NEWS.md
@@ -31,7 +31,7 @@ ca9ce060957616fa3f023a5663e409d9 *inst/include/xsimd/math/xsimd_rounding.hpp
 cee1c3f82f23a998bc0f08178888b4a1 *inst/include/xsimd/math/xsimd_scalar.hpp
 bc5dab7cb7c86be02a0dab473e02544e *inst/include/xsimd/math/xsimd_trigo_reduction.hpp
 21f765166c47da21f3e7723b0b2e96c9 *inst/include/xsimd/math/xsimd_trigonometric.hpp
-e721f940c38dda501b2033ceb68985ba *inst/include/xsimd/memory/xsimd_aligned_allocator.hpp
+38f2e7a1eb2652f77b3830570bb16b35 *inst/include/xsimd/memory/xsimd_aligned_allocator.hpp
 e99c01bf286464bc35e382fe02e7c626 *inst/include/xsimd/memory/xsimd_aligned_stack_buffer.hpp
 dd1c61816c2ce80e7b011e3b69b49a3a *inst/include/xsimd/memory/xsimd_alignment.hpp
 f296e9ebae3637b6f707728ed7abfdfc *inst/include/xsimd/memory/xsimd_load_store.hpp
